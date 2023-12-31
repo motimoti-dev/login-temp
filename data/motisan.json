@@ -1,0 +1,13 @@
+{
+    "uid": "ef655d7d-18f0-7973-b50f-28cb56755f4f",
+    "nickname": "テストデータのもちさん",
+    "password": "test password",
+    "public": false,
+    "registration": "2023-07-29",
+    "gender": "men",
+    "birth":"2002-03-20",
+    "userlevel":"1",
+    "usertype":"test",
+    "lastupdate":"",
+    "counter":0
+ }
